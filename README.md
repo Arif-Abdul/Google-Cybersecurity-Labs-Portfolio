@@ -45,4 +45,4 @@ To showcase my ability to conduct thorough security audits, analyze risks, and r
 
 **Arif Abdul**  
 Email: arifabdul331@gmail.com  
-Location: Kolkata, India
+
